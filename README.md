@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Anton @Statsministeriet 
-- 👀 Cloud Computing
-- 🌱 Advance node
-- 💞️ Starters and Boilerplate code
+- Cloud Computing / Serverless environments
+- Advance node.js
+- Starters and Boilerplate code
+- Typescript expert
