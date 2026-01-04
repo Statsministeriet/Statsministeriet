@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Anton @Statsministeriet 
-- Cloud Computing / Serverless environments
+👋 Hi, I’m Anton @Statsministeriet 
+Cloud Computing and Software Devleopment in NodeJS.
